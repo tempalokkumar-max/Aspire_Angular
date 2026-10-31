@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Alok Kumar\\Sources\\BlazerApp\\Aspire_Angular\\app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A27C03AD-8B68-445C-83D5-37CDB602DEBB}|app.AppHost\\app.AppHost.csproj|c:\\alok kumar\\sources\\blazerapp\\aspire_angular\\app\\app.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27C03AD-8B68-445C-83D5-37CDB602DEBB}|app.AppHost\\app.AppHost.csproj|solutionrelative:app.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D128133-D57F-C939-CFF4-334A9B8DF362}|web\\web.esproj|c:\\alok kumar\\sources\\blazerapp\\aspire_angular\\app\\web\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D128133-D57F-C939-CFF4-334A9B8DF362}|web\\web.esproj|solutionrelative:web\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppHost.cs",
+              "DocumentMoniker": "C:\\Alok Kumar\\Sources\\BlazerApp\\Aspire_Angular\\app\\app.AppHost\\AppHost.cs",
+              "RelativeDocumentMoniker": "app.AppHost\\AppHost.cs",
+              "ToolTip": "C:\\Alok Kumar\\Sources\\BlazerApp\\Aspire_Angular\\app\\app.AppHost\\AppHost.cs",
+              "RelativeToolTip": "app.AppHost\\AppHost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T14:34:34.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Alok Kumar\\Sources\\BlazerApp\\Aspire_Angular\\app\\web\\package.json",
+              "RelativeDocumentMoniker": "web\\package.json",
+              "ToolTip": "C:\\Alok Kumar\\Sources\\BlazerApp\\Aspire_Angular\\app\\web\\package.json",
+              "RelativeToolTip": "web\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-30T14:33:50.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
