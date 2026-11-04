@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Alok Kumar\\Sources\\BlazerApp\\Aspire_Angular\\app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A27C03AD-8B68-445C-83D5-37CDB602DEBB}|app.AppHost\\app.AppHost.csproj|c:\\alok kumar\\sources\\blazerapp\\aspire_angular\\app\\app.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A27C03AD-8B68-445C-83D5-37CDB602DEBB}|app.AppHost\\app.AppHost.csproj|solutionrelative:app.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D128133-D57F-C939-CFF4-334A9B8DF362}|web\\web.esproj|c:\\alok kumar\\sources\\blazerapp\\aspire_angular\\app\\web\\src\\app\\app-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{7D128133-D57F-C939-CFF4-334A9B8DF362}|web\\web.esproj|solutionrelative:web\\src\\app\\app-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462EE049-9FE1-B47D-1B3E-22BACA5D9185}|frontend\\frontend.esproj|c:\\alok kumar\\sources\\blazerapp\\aspire_angular\\app\\frontend\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{462EE049-9FE1-B47D-1B3E-22BACA5D9185}|frontend\\frontend.esproj|solutionrelative:frontend\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D128133-D57F-C939-CFF4-334A9B8DF362}|web\\web.esproj|c:\\alok kumar\\sources\\blazerapp\\aspire_angular\\app\\web\\src\\app\\services\\weather.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{7D128133-D57F-C939-CFF4-334A9B8DF362}|web\\web.esproj|solutionrelative:web\\src\\app\\services\\weather.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D128133-D57F-C939-CFF4-334A9B8DF362}|web\\web.esproj|c:\\alok kumar\\sources\\blazerapp\\aspire_angular\\app\\web\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{7D128133-D57F-C939-CFF4-334A9B8DF362}|web\\web.esproj|solutionrelative:web\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D128133-D57F-C939-CFF4-334A9B8DF362}|web\\web.esproj|c:\\alok kumar\\sources\\blazerapp\\aspire_angular\\app\\web\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D128133-D57F-C939-CFF4-334A9B8DF362}|web\\web.esproj|solutionrelative:web\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Alok Kumar\\Sources\\BlazerApp\\Aspire_Angular\\app\\web\\proxy.conf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:web\\proxy.conf.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D128133-D57F-C939-CFF4-334A9B8DF362}|web\\web.esproj|c:\\alok kumar\\sources\\blazerapp\\aspire_angular\\app\\web\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -18,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +62,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "proxy.conf.json",
+              "DocumentMoniker": "C:\\Alok Kumar\\Sources\\BlazerApp\\Aspire_Angular\\app\\web\\proxy.conf.json",
+              "RelativeDocumentMoniker": "web\\proxy.conf.json",
+              "ToolTip": "C:\\Alok Kumar\\Sources\\BlazerApp\\Aspire_Angular\\app\\web\\proxy.conf.json",
+              "RelativeToolTip": "web\\proxy.conf.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-03T05:15:35.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.html",
+              "DocumentMoniker": "C:\\Alok Kumar\\Sources\\BlazerApp\\Aspire_Angular\\app\\web\\src\\app\\app.html",
+              "RelativeDocumentMoniker": "web\\src\\app\\app.html",
+              "ToolTip": "C:\\Alok Kumar\\Sources\\BlazerApp\\Aspire_Angular\\app\\web\\src\\app\\app.html",
+              "RelativeToolTip": "web\\src\\app\\app.html",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-11-03T05:11:13.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.ts",
+              "DocumentMoniker": "C:\\Alok Kumar\\Sources\\BlazerApp\\Aspire_Angular\\app\\web\\src\\app\\app.ts",
+              "RelativeDocumentMoniker": "web\\src\\app\\app.ts",
+              "ToolTip": "C:\\Alok Kumar\\Sources\\BlazerApp\\Aspire_Angular\\app\\web\\src\\app\\app.ts",
+              "RelativeToolTip": "web\\src\\app\\app.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-11-03T05:01:47.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppHost.cs",
-              "DocumentMoniker": "C:\\Alok Kumar\\Sources\\BlazerApp\\Aspire_Angular\\app\\app.AppHost\\AppHost.cs",
-              "RelativeDocumentMoniker": "app.AppHost\\AppHost.cs",
-              "ToolTip": "C:\\Alok Kumar\\Sources\\BlazerApp\\Aspire_Angular\\app\\app.AppHost\\AppHost.cs",
-              "RelativeToolTip": "app.AppHost\\AppHost.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T14:34:34.662Z",
+              "Title": "app-module.ts",
+              "DocumentMoniker": "C:\\Alok Kumar\\Sources\\BlazerApp\\Aspire_Angular\\app\\web\\src\\app\\app-module.ts",
+              "RelativeDocumentMoniker": "web\\src\\app\\app-module.ts",
+              "ToolTip": "C:\\Alok Kumar\\Sources\\BlazerApp\\Aspire_Angular\\app\\web\\src\\app\\app-module.ts",
+              "RelativeToolTip": "web\\src\\app\\app-module.ts",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-11-03T04:59:12.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Alok Kumar\\Sources\\BlazerApp\\Aspire_Angular\\app\\frontend\\src\\App.tsx",
+              "RelativeDocumentMoniker": "frontend\\src\\App.tsx",
+              "ToolTip": "C:\\Alok Kumar\\Sources\\BlazerApp\\Aspire_Angular\\app\\frontend\\src\\App.tsx",
+              "RelativeToolTip": "frontend\\src\\App.tsx",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAUwLgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-30T14:46:47.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Alok Kumar\\Sources\\BlazerApp\\Aspire_Angular\\app\\web\\package.json",
               "RelativeDocumentMoniker": "web\\package.json",
@@ -63,7 +135,20 @@
               "RelativeToolTip": "web\\package.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-30T14:33:50.311Z",
+              "WhenOpened": "2026-11-03T05:16:27.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "weather.service.ts",
+              "DocumentMoniker": "C:\\Alok Kumar\\Sources\\BlazerApp\\Aspire_Angular\\app\\web\\src\\app\\services\\weather.service.ts",
+              "RelativeDocumentMoniker": "web\\src\\app\\services\\weather.service.ts",
+              "ToolTip": "C:\\Alok Kumar\\Sources\\BlazerApp\\Aspire_Angular\\app\\web\\src\\app\\services\\weather.service.ts",
+              "RelativeToolTip": "web\\src\\app\\services\\weather.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-11-03T04:57:36.995Z",
               "EditorCaption": ""
             }
           ]

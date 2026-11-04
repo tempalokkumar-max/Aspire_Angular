@@ -4,8 +4,8 @@
     <PackageJsonName Condition="$(PackageJsonName) == ''">web</PackageJsonName>
     <PackageJsonVersion Condition="$(PackageJsonVersion) == ''">0.0.0</PackageJsonVersion>
     <PackageJsonScriptsNg Condition="$(PackageJsonScriptsNg) == ''">ng</PackageJsonScriptsNg>
-    <PackageJsonScriptsStart Condition="$(PackageJsonScriptsStart) == ''">ng serve --host=127.0.0.1 --port=4200</PackageJsonScriptsStart>
-    <PackageJsonScriptsDev Condition="$(PackageJsonScriptsDev) == ''">ng serve --host=127.0.0.1 --port=4200</PackageJsonScriptsDev>
+    <PackageJsonScriptsStart Condition="$(PackageJsonScriptsStart) == ''">ng serve --host=127.0.0.1 --port=4200 --proxy-config proxy.conf.json</PackageJsonScriptsStart>
+    <PackageJsonScriptsDev Condition="$(PackageJsonScriptsDev) == ''">ng serve --host=127.0.0.1 --port=4200 --proxy-config proxy.conf.json</PackageJsonScriptsDev>
     <PackageJsonScriptsBuild Condition="$(PackageJsonScriptsBuild) == ''">ng build</PackageJsonScriptsBuild>
     <PackageJsonScriptsWatch Condition="$(PackageJsonScriptsWatch) == ''">ng build --watch --configuration development</PackageJsonScriptsWatch>
     <PackageJsonScriptsTest Condition="$(PackageJsonScriptsTest) == ''">ng test</PackageJsonScriptsTest>
